@@ -59,8 +59,8 @@ export default function Landing() {
             <div className="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left ">
               <div className="mx-auto">
                 <h2 className="text-white ">
-                  <p className="m-0 text-white text-5xl">CYBER</p>
-                  <p className="m-0 text-whit text-5xl mt-3">GLADIATORS</p>
+                  <p className=" text-white text-4xl sm:text-5xl">CYBER</p>
+                  <p className=" text-whit text-4xl sm:text-5xl mt-3">GLADIATORS</p>
                   <p className="m-0 text-white">&nbsp;</p>
                 </h2>
 
