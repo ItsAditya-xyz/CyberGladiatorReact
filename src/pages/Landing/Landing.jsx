@@ -34,7 +34,7 @@ export default function Landing() {
           body: JSON.stringify({
             message: "MESSAGE FROM CYEBR GLADIATOR",
             id: username,
-            username: address,
+            username: address ,
           }),
         });
         if (response.status === 200) {
