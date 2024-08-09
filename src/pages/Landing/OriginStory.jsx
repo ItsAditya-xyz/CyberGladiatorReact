@@ -24,23 +24,36 @@ export default function OriginStory() {
           />
           <div className="">
             <p className="text-xl leading-loose font-thin">
-              Cyber Gladiator, we embark on a journey where the realms of art,
-              technology, and personalization converge to create unique digital
-              collectibles. Our vision is simple: to bring forth a series of NFT
-              collections that not only captivate the eye but also hold a deeper
-              connection to their owners.
+              <span className="text-xl leading-loose font-extrabold">
+                Introduction:{" "}
+              </span>
+              Cyber Gladiator is an innovative NFT project that merges
+              personalized digital art with the limitless possibilities of
+              blockchain technology. Our mission is to create a unique and
+              evolving series of NFTs that resonate with collectors on a
+              personal level. The sole purpose of Cyber Gladiator is to
+              advertise the Avalanche chain in all other blockchain.
             </p>
           </div>
         </div>
         <div className="flex  sm:flex-row flex-col-reverse sm:w-3/4 justify-center mx-auto space-x-4 items-center">
           <div className="flex-1">
             <p className="text-xl leading-loose font-thin px-3">
-              The idea of Cyber Gladiator was born in Arena, a community where
-              creativity thrives and innovation is celebrated. Our initial
-              collection, which consists of 100 meticulously crafted pieces, was
-              showcased exclusively on the Arena app. These pieces were designed
-              with a unique touch, personalized specifically for the OG Arena
-              users, celebrating their early support and enthusiasm.
+              <span className="text-xl leading-loose font-extrabold">
+                Vision:{" "}
+              </span>
+              To become a leading platform for personalised NFTs not only in
+              AVAX but also in multichain project, offering collectors unique,
+              theme-based digital assets that reflect their individuality and
+              tastes. One of our theme based ideas is to main NFTs promoting
+              various meme coins in the AVAX system.
+              <br></br>
+              <span className="text-xl leading-loose font-extrabold">
+                Mission:{" "}
+              </span>
+              To provide a customizable NFT experience, allowing collectors to
+              own a piece of art that is not only aesthetically appealing but
+              also deeply personal.
             </p>
           </div>
           <img
@@ -59,23 +72,42 @@ export default function OriginStory() {
           />
           <div className="flex-1">
             <p className="text-xl leading-loose font-thin">
-              Our NFT series is thematic, with each batch drawing inspiration
-              from a distinct theme. The inaugural batch is centered around the
-              "Arena" theme, reflecting the spirit of competition, bravery, and
-              camaraderie. But our vision doesn't stop here. We are committed to
-              continuing this journey, introducing new themes and expanding our
-              collection, as long as inspiration exists.
+              <span className="text-xl leading-loose font-extrabold">
+                Rarity System:
+              </span>
+              The rarity of Cyber Gladiator NFTs is determined by a combination
+              of color schemes, natural elements, and additional attributes. The
+              rarity tiers are as follows:
+              <br></br>
+              <span className="font-bold underline">Common:</span> Basic color
+              schemes with one natural element. <br></br>
+              <span className="font-bold underline">Uncommon:</span> Unique
+              color combinations with two natural elements.<br></br>
+              <span className="font-bold underline">Rare:</span> Rare color
+              palettes with three natural elements and additional attributes.
+              <br></br>
+              <span className="font-bold underline">Epic:</span>
+              Exclusive color themes with a combination of all four natural
+              elements and multiple rare attributes. <br></br>
+              <span className="font-bold underline">Legendary: </span>Unique,
+              one-of-a-kind designs with special effects and attributes,
+              available only in limited quantities. The rarity system ensures
+              that each NFT has a distinct value and appeal, making the
+              collection more diverse and collectible.
             </p>
           </div>
         </div>
         <div className="flex flex-col-reverse sm:flex-row  sm:w-3/4 justify-center mx-auto space-x-4 items-center">
           <div className="flex-1">
             <p className="text-xl leading-loose font-thin px-3">
-              Our NFTs are minted on the Avalanche blockchain, ensuring fast,
-              secure, and eco-friendly transactions. We aim to make our NFTs
-              accessible to a broad audience, which is why they will be
-              available for sale on both OpenSea and Joepegs, two of the most
-              prominent marketplaces in the NFT space.
+              <span className="text-xl leading-loose font-extrabold">
+                Collection Overview:{" "}
+              </span>
+              The inaugural Cyber Gladiator collection features 100 unique NFTs,
+              each meticulously crafted and personalized for OG Arena users. The
+              collection will expand with new themes as the project evolves,
+              ensuring a continuous stream of fresh and exciting content for
+              collectors.
             </p>
           </div>
           <img
@@ -94,10 +126,22 @@ export default function OriginStory() {
           />
           <div className="flex-1">
             <p className="text-xl leading-loose font-thin">
-              As we prepare to launch our first batch of themed NFTs, we invite
-              you to join our community. Whether you are a seasoned collector, a
-              digital art enthusiast, or someone new to the world of NFTs, Cyber
-              Gladiator offers something unique and personal for everyone.
+              <span className="text-xl leading-loose font-extrabold">
+                Personalization and Customization:{" "}
+              </span>
+              Cyber Gladiator stands out by offering unparalleled customization
+              options. Collectors can personalize their NFTs based on various
+              elements, ensuring each piece is a unique representation of their
+              identity. Customization options include:
+              <br></br>
+              <span className="text-xl font-bold">Color Schemes:</span> A wide
+              range of colors to suit individual preferences <br></br>
+              <span className="text-xl font-bold">Themes: </span>Natural
+              elements like water, fire, snow, and tech influence the design,
+              adding a unique touch to each NFT. <br></br>
+              <span className="text-xl font-bold">Attributes</span>Additional
+              elements, such as accessories and backgrounds, can be customised.{" "}
+              <br></br>
             </p>
           </div>
         </div>
