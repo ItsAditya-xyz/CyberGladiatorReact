@@ -1,0 +1,19 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dela Gothic One', cursive;
+}
+
+.header-title {
+  font-family: 'Karantina', cursive;
+}
+
+.sub-title {
+  font-family: 'Anek Odia', sans-serif;
+}
+
+.button-text {
+  font-family: 'Archivo Black', sans-serif;
+}
