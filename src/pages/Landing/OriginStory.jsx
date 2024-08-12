@@ -63,39 +63,38 @@ export default function OriginStory() {
             src={rectangle8}
           />
         </div>
-        <div className="flex flex-col sm:flex-row sm:w-3/4 justify-center mx-auto space-x-4 items-center">
+        <div className="flex flex-col sm:flex-row sm:w-3/4 justify-center mx-auto space-x-4 items-center my-3">
           <img
-            className="w-3/4 sm:w-1/2"
+            className="w-3/4 sm:w-1/2 my-2 rounded-md"
             loading="lazy"
             alt="NFT Series"
-            src={rectangle9}
+            src= "https://cdn.discordapp.com/attachments/1150445520154808413/1272606307551154329/85ec7d14-1e92-4356-bbb7-f7d9fefb81eb.png?ex=66bb967b&is=66ba44fb&hm=2702b6aef1766133d6f817cae68917d49dafe0283a68d57a5b43f33e473dcd7f&"
           />
           <div className="flex-1">
             <p className="text-xl leading-loose font-thin">
               <span className="text-xl leading-loose font-extrabold">
                 Rarity System:
               </span>
-              The rarity of Cyber Gladiator NFTs is determined by a combination
-              of color schemes, natural elements, and additional attributes. The
-              rarity tiers are as follows:
+              Here’s the information in point form: 5. Legendary: 9% of the
+              collection is the most exclusive, characterized by powerful
+              weapons or the ability to fly in the air.
               <br></br>
-              <span className="font-bold underline">Common:</span> Basic color
-              schemes with one natural element. <br></br>
-              <span className="font-bold underline">Uncommon:</span> Unique
-              color combinations with two natural elements.<br></br>
-              <span className="font-bold underline">Rare:</span> Rare color
-              palettes with three natural elements and additional attributes.
+              <span className="font-bold underline">Common:</span> 50% of the
+              collection features elemental themes such as Metal, Rains, Snow,
+              Fire, and Water. <br></br>
+              <span className="font-bold underline">Uncommon:</span>40% of the
+              NFTs are inspired by community themes, like Arena.<br></br>
+              <span className="font-bold underline">Rare:</span> 20% of the
+              collection includes project mentions, such as NOCHILL.
               <br></br>
               <span className="font-bold underline">Epic:</span>
-              Exclusive color themes with a combination of all four natural
-              elements and multiple rare attributes. <br></br>
-              <span className="font-bold underline">Legendary: </span>Unique,
-              one-of-a-kind designs with special effects and attributes,
-              available only in limited quantities. The rarity system ensures
-              that each NFT has a distinct value and appeal, making the
-              collection more diverse and collectible.
+              10% of the NFTs showcase designs incorporating animals. <br></br>
+              <span className="font-bold underline">Legendary: </span>9% of the
+              collection is the most exclusive, characterized by powerful
+              weapons or the ability to fly in the air.
             </p>
           </div>
+        
         </div>
         <div className="flex flex-col-reverse sm:flex-row  sm:w-3/4 justify-center mx-auto space-x-4 items-center">
           <div className="flex-1">
