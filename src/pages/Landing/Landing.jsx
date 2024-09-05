@@ -73,7 +73,7 @@ export default function Landing() {
                   <a
                     href='https://opensea.io/collection/cyber-gladiator'
                     target="_blank"
-                    className='bg-red-500 hover:bg-red-600 text-white rounded-lg px-5 py-3 text-xl  '>
+                    className='bg-red-500 hover:bg-red-600 text-white rounded-lg px-5 py-3 text-lg  '>
                     View Collection
                   </a>
                 </div>
